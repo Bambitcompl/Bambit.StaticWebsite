@@ -10,6 +10,7 @@ var livereload = require('gulp-livereload');
 var sourcemaps = require('gulp-sourcemaps');
 var postcss = require('gulp-postcss');
 var gulp = require('gulp');
+var compress_images = require('compress-images');
  
 // Gulp task to minify CSS files
 gulp.task('styles', function () {
