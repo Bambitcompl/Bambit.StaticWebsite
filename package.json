@@ -1,12 +1,12 @@
 {
   "name": "bambit-static-website",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "A local environment to minify CSS, JS, & HTML files",
   "license": "MIT",
   "author": "Bambit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amardeeprai/local-minifier"
+    "url": "https://github.com/Bambitcompl/Bambit.StaticWebsite"
   },
   "devDependencies": {
     "compress-images": "^1.6.3",
