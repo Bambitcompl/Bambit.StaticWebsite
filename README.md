@@ -1,2 +1,2 @@
 # Bambit.StaticWebsite
-Static website, bootstrap template with RWD
+Static website template with Gulp (minify CSS, JS and compress images) and deploy on FTP server.
