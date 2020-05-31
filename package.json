@@ -1,7 +1,7 @@
 {
   "name": "bambit-static-website",
   "version": "1.0.0",
-  "description": "A local environment to minify CSS, JS, & HTML files",
+  "description": "Static website template with Gulp and basic directory structure.",
   "license": "MIT",
   "author": "Bambit",
   "repository": {
