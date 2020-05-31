@@ -12,11 +12,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
     - name: yarn install
-    - uses: borales/actions-yarn@v2.0.0
+      uses: borales/actions-yarn@v2.0.0
       with:
         cmd: install
     - name: yarn gulp  
-    - uses: borales/actions-yarn@v2.0.0
+      uses: borales/actions-yarn@v2.0.0
       with:
         cmd: gulp
     # - name: FTP-Deploy-Action
