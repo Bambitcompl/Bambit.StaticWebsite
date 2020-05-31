@@ -11,14 +11,12 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@master
-    - name: yarn install
-      uses: borales/actions-yarn@v2.0.0
+    - name: Node setup
+      uses: actions/setup-node@v1
       with:
-        cmd: install
-    - name: yarn gulp  
-      uses: borales/actions-yarn@v2.0.0
-      with:
-        cmd: gulp
+        node-version: '10.x'
+    - run: yarn install
+    - run: yarn gulp
     # - name: FTP-Deploy-Action
     #   uses: SamKirkland/FTP-Deploy-Action@3.0.0
     #   with:
