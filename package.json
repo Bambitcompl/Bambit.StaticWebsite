@@ -23,7 +23,7 @@
     "gulp-terser": "1.2.0",
     "gulp-uglify": "^3.0.2",
     "gulp4-run-sequence": "^1.0.1",
-    "pngout-bin": "^4.0.0"
+    "pngout-bin": "^5.0.0"
   },
   "engines": {
     "node": ">=0.12.0"
