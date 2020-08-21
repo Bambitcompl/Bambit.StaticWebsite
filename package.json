@@ -9,7 +9,7 @@
     "url": "https://github.com/Bambitcompl/Bambit.StaticWebsite"
   },
   "devDependencies": {
-    "compress-images": "^1.9.3",
+    "compress-images": "^1.9.5",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "latest",

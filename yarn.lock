@@ -1136,10 +1136,10 @@ component-emitter@^1.2.1:
   resolved "https://registry.yarnpkg.com/component-emitter/-/component-emitter-1.3.0.tgz#16e4070fba8ae29b679f2215853ee181ab2eabc0"
   integrity sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg==
 
-compress-images@^1.9.3:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/compress-images/-/compress-images-1.9.3.tgz#f43ab66292fcfa2a5106fe270ed09e8716bbe616"
-  integrity sha512-yNVOXJ9pp2hzkpZj6I+VGhQjGpE/3XurkKaoXD9LPZDQ5Q5hPrvteP4fBWmoYrNlfQ6vQXXRHrTi8XOuiGI5xg==
+compress-images@^1.9.5:
+  version "1.9.5"
+  resolved "https://registry.yarnpkg.com/compress-images/-/compress-images-1.9.5.tgz#5cf53f83a77a2280f2e4f5ec80885f46231e47cb"
+  integrity sha512-iQ7J+aw8YuglDoD+m2gO5hpfc74pBGpSndwamC62QWofodX/bo+MPxmbznXr7BNN7cGv3iMPoAPuqhza5nU+YQ==
   dependencies:
     bytes "^3.1.0"
     color "^3.1.2"
