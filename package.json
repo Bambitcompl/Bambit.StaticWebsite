@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "compress-images": "^1.9.5",
-    "del": "^5.1.0",
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "latest",
     "gulp-concat": "2.6.1",
