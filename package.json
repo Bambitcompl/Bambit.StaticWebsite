@@ -20,7 +20,7 @@
     "gulp-postcss": "8.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "2.6.5",
-    "gulp-terser": "1.4.0",
+    "gulp-terser": "1.4.1",
     "gulp-uglify": "^3.0.2",
     "gulp4-run-sequence": "^1.0.1",
     "pngout-bin": "^5.0.0"
