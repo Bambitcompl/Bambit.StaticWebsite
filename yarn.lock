@@ -1136,17 +1136,16 @@ component-emitter@^1.2.1:
   resolved "https://registry.yarnpkg.com/component-emitter/-/component-emitter-1.3.0.tgz#16e4070fba8ae29b679f2215853ee181ab2eabc0"
   integrity sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg==
 
-compress-images@^1.9.5:
-  version "1.9.5"
-  resolved "https://registry.yarnpkg.com/compress-images/-/compress-images-1.9.5.tgz#5cf53f83a77a2280f2e4f5ec80885f46231e47cb"
-  integrity sha512-iQ7J+aw8YuglDoD+m2gO5hpfc74pBGpSndwamC62QWofodX/bo+MPxmbznXr7BNN7cGv3iMPoAPuqhza5nU+YQ==
+compress-images@^1.9.9:
+  version "1.9.9"
+  resolved "https://registry.yarnpkg.com/compress-images/-/compress-images-1.9.9.tgz#2dc67a24d780dac1fe54855591796316b7c223c0"
+  integrity sha512-97eywePllcQu04JYqCy+uAYaxxra3HVemuWrED+SI7SlB8lE8KrZcW13Nqh0y0STKj53nSt+DO3I/EkGo6R60A==
   dependencies:
     bytes "^3.1.0"
     color "^3.1.2"
     colors "^1.4.0"
     cwebp-bin "^6.1.1"
     glob "^7.1.6"
-    guetzli "^3.0.1"
     jpeg-recompress-bin "^5.1.1"
     jpegtran-bin "^5.0.2"
     mkdirp "^0.5.1"
@@ -2589,15 +2588,6 @@ graceful-fs@4.X, graceful-fs@^4.0.0, graceful-fs@^4.1.10, graceful-fs@^4.1.11, g
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
   integrity sha1-TK+tdrxi8C+gObL5Tpo906ORpyU=
-
-guetzli@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/guetzli/-/guetzli-3.0.1.tgz#f76c599b59463a02b7073f8cc618efff090a16da"
-  integrity sha512-GnT3akQqs6lTdT6C5W5idekf22BlUd1M1LcIyAnWOk4fNreonEKx9ZGdCUvjaivKyHMjtXFNSRihhfO22FYQ2g==
-  dependencies:
-    bin-build "^3.0.0"
-    bin-wrapper "^4.0.0"
-    logalot "^2.1.0"
 
 gulp-autoprefixer@latest:
   version "7.0.1"
